@@ -1,0 +1,17 @@
+{
+  "title": "<WAR FOR RAYUBA:AMOR>",
+  "description": "<A collection of competetive comics for the Original Character Tournament taking place in the Kill Six Billion Demons comic series.>",
+  "artist": "<Para>",
+  "author": "<Para>",
+  "cover": "<mangacoverurl.jpg>",
+  "chapters": {
+    "<chapter number>": {
+      "title": "<chapter 0>",
+      "volume": "<volume 0>",
+      "groups": {
+        "<group name>": "/proxy/api/imgur/chapter/<Pjqty2P>/"
+      }
+      "last_updated": "1616368746"
+    },
+  }
+}
